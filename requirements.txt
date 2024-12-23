@@ -1,0 +1,6 @@
+mcstatus
+paramiko
+pyinstaller
+bcrypt
+pynacl
+cryptography

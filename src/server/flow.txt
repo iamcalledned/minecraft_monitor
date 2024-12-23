@@ -1,0 +1,13 @@
+minecraft_monitor/
+├── src/
+│   ├── __init__.py
+│   ├── gui/
+│   │   ├── __init__.py
+│   │   ├── main_window.py
+│   │   └── components.py
+│   ├── server/
+│   │   ├── __init__.py
+│   │   ├── manager.py
+│   │   └── stats.py
+│   └── config.py
+└── main.py  # renamed from app.py
